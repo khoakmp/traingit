@@ -1,0 +1,5 @@
+package traingit
+
+func NewProduct() {
+
+}
